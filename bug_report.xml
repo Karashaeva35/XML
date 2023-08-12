@@ -1,1 +1,9 @@
+<bug1>
+  <id>PR1</id>
+  <summary>код ошибки url 404</summary>
+  <project>onlineshop.com</project>
+  <severity>blocker</severity>
+  <priority>ASAP</priority>
+  <status>open</status>
+</bug1>
 
